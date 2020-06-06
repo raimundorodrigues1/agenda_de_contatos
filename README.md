@@ -21,7 +21,7 @@ O App foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 📦 Como baixar este projeto
+## 📦 Como baixar o projeto
 
 ``` bash
 # Clonar repositório
